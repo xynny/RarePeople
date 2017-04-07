@@ -6,6 +6,14 @@ The Rarest People of them all are at Databricks.  You know this and I know this.
 
 If you do not have a bitcoin wallet that you control, go to https://wallet.counterwallet.io/ and create a wallet.  Write down the generation seed and keep it safe.  Once in the wallet you should have at least one bitcoin/counterparty address that looks something like 1D7ByizhvMPYHQ4UrSMS13ZJByh1XJYiVi.  This is where we can trade RarePeople, bitcoin, and a myriad of other tokens.  If you participated in Series 1 ask Xin to send you a copy of all these RarePeople cards!  
 
+# Sending a Card:
+
+If you have RarePeople assets you can go into your Counterwallet and select send and type in a bitcoin address to send the asset.  You need a small amount of bitcoin in your wallet to pay the transaction fee.
+
+# Selling a Card on the DEX
+
+Counterparty has a decentralized exchange at https://wallet.counterwallet.io/#pages/exchange.html .  You can list any of your cards for sale for XCP, which is the Counterparty token.  XCP can be easily exchanged into bitcoin.  
+
 # Viewing your cards:
 
 Clone this repo and open index.html in a browser and type in your bitcoin address.  You should be able to see what cards you own!  
