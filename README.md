@@ -20,7 +20,7 @@ There are many usecases for RarePeople for any company.  Here are some:
 
 3. Sprint planning - Plan your sprints in terms of how many XYNNY or MATEI you need!  It would serve as ownership and a contract.
 
-4. Rewards - Do people actually care about highfives on FIVE-TEN or whatever that system is?  Buy a card from a coworker as appreciation!  
+4. Rewards - Do people actually care about highfives on whatever that system is?  Buy a card from a coworker with bitcoin as appreciation!  
 
 AND MANY MANY MORE...
 
