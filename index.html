@@ -10,7 +10,7 @@
           var url="http://xcp.blockscan.com/api2?module=address&action=balance&btc_address=";
           var query;
          
-          var knowncards = ['MATEI', 'XYNNY']
+          var knowncards = ['MATEI', 'XYNNY', 'REYNOLD']
     
           // when the user clicks the button
           $("button").click(function(){
@@ -29,7 +29,7 @@
                      cardcount++;
                      var carddiv = $("<div class=\"w3-quarter\"></div>");
                     
-                     carddiv.append("<img src=\"./assets/"+ card.asset +".png\"  style=\"width:100%\" hspace=\"5\"></img><center><h3>AssetName: " + card.asset + "<br></br>Owned: " + card.balance + "</h3></center>")
+                     carddiv.append("<img src=\"./assets/"+ card.asset +".png\"  style=\"width:100%\" hspace=\"5\"></img><center><p>Asset Name: " + card.asset + "</p><p>Owned: " + card.balance + "</p></center>")
                      $("#results").append(carddiv)
                    }
                 });
