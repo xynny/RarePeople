@@ -10,4 +10,18 @@ If you do not have a bitcoin wallet that you control, go to https://wallet.count
 
 Clone this repo and open index.html in a browser and type in your bitcoin address.  You should be able to see what cards you own!  
 
+# Usecases:
+
+There are many usecases for RarePeople for any company.  Here are some:
+
+1. Marketing - Imagine telling everyone at Spark Summit that a limited number of digital MATEI or REYNOLD cards are up for grabs.  They will be scooped up very quickly and traded.  Limited edition cards can also be released for the speakers at our conferences.  
+
+2. Workplace verification/digital identification - RarePeople can be issued to employees as identification.  Since the blockchain is an open ledger only those who worked here would have these assets given to them.  If a person can send out one of these special cards then it would reasonably prove that they are an employee.
+
+3. Sprint planning - Plan your sprints in terms of how many XYNNY or MATEI you need!  It would serve as ownership and a contract.
+
+4. Rewards - Do people actually care about highfives on FIVE-TEN or whatever that system is?  Buy a card from a coworker as appreciation!  
+
+AND MANY MANY MORE...
+
 
