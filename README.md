@@ -30,6 +30,8 @@ There are many usecases for RarePeople for any company.  Here are some:
 
 4. Rewards - Do people actually care about highfives on whatever that system is?  Buy a card from a coworker with bitcoin as appreciation!  
 
+5. Payment - Attach DBUs to our own blockchain tokens and sell them to customers!
+
 AND MANY MANY MORE...
 
 
